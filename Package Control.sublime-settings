@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"PhpTidy",
+		"TypeScript Compiler"
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CodeIgniter 2 ModelController",
+		"Color Highlighter",
+		"FileDiffs",
+		"Glue",
+		"Ionic 2",
+		"Ionic Framework Snippets",
+		"jQuery",
+		"JSCS-Formatter",
+		"JsFormat",
+		"LESS",
+		"Less2Css",
+		"lessc",
+		"Monokai Dark",
+		"Package Control",
+		"PackageSync",
+		"PHP Getters and Setters",
+		"Phpcs",
+		"PhpTidy",
+		"PHPUnit",
+		"Pretty JSON",
+		"rsub",
+		"SFTP",
+		"Terminal",
+		"Text Pastry",
+		"TypeScript",
+		"TypeScript Compiler"
+	]
+}

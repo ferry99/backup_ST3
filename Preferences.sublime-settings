@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"detect_slow_plugins": false,
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"PhpTidy",
+		"TypeScript Compiler",
+		"Vintage"
+	],
+	"show_definitions": false,
+	"theme": "Adaptive.sublime-theme"
+}
